@@ -35,7 +35,7 @@ global.link = 'https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = true //auto recording
+global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
@@ -48,7 +48,7 @@ global.autoswview = true //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v2'
+global.typemenu = 'v1'
 
 //text bug
 global.xbugtex = {
