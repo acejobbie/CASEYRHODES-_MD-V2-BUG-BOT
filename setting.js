@@ -32,7 +32,7 @@ global.wm = "ན🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ ❬𝕯❭"
 global.link = 'https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
